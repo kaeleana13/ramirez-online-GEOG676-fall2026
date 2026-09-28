@@ -5,7 +5,7 @@ file geodatabase, buffer the garage points, intersect the buffers with
 campus buildings, and export the results to a CSV file.
 
 I used a buffer distance of 150 meters. The intersection produced 62
-building records.
+building records. Also important to note that when my ramirez_lab4_results.png displays "FileNotFoundError: Campus.gdb was not found" I had to find the Campus.gdb and extract it as a ZIP file and move it into my Lab 4 folder seperately.
 
 ## Files
 
