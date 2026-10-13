@@ -7,4 +7,5 @@ I used a buffer distance of 150 meters. I had an issue where ArcGIS Pro kept usi
 ## Files
 
 - `ramirez_lab5_toolbox.pyt` - Python toolbox
-- `ramirez_lab5_results.png` - Screenshot of the toolbox and results
+- `ramirez_lab5_results.png` - Former screenshot of the toolbox and results
+- `ramirez_lab5_results_updated.png` - Updated and corrected screenshot of the toolbox and results
